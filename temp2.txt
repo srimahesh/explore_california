@@ -1,0 +1,19 @@
+commit 504bb0e623b9c7df37a3266d9dd5a7bbe6170da5
+Author: Mahesh Vutukuri <vutukurim@gmail.com>
+Date:   Thu Jul 11 13:33:15 2013 -0500
+
+    Revert "Amended Resources.html"
+    
+    This reverts commit 9c0f44bf1c15775f0d3c410efb2e63c7f15d9fde.
+
+commit 9c0f44bf1c15775f0d3c410efb2e63c7f15d9fde
+Author: Mahesh Vutukuri <vutukurim@gmail.com>
+Date:   Thu Jul 11 13:12:51 2013 -0500
+
+    Amended Resources.html
+
+commit eed5c888f8852dc12801722c47aae7c218dca74f
+Author: Mahesh Vutukuri <vutukurim@gmail.com>
+Date:   Thu Jul 11 13:05:14 2013 -0500
+
+    Added DS_STORE
